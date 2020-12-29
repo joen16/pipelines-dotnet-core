@@ -20,4 +20,3 @@ steps:
   inputs:
     command: 'publish'
     publishWebProjects: true
-    workingDirectory: '$(System.DefaultWorkingDirectory)'
